@@ -1,0 +1,2 @@
+Command cloudwatch-metrics pushes ec2 instance memory information as custom
+CloudWatch metrics.
